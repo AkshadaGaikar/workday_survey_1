@@ -1,5 +1,5 @@
 view: survey {
-  sql_table_name: `WORKDAY_SURVEY.Survey` ;;
+  sql_table_name: `WORKDAY_SURVEY.Survey5` ;;
 
   dimension: _employee_id {
     type: number
